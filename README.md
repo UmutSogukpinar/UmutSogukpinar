@@ -49,8 +49,6 @@
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=umutsogukpinar&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&order=3&card_width=320" height="200" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=umutsogukpinar&layout=compact&exclude_repo=Robotframwork&hide=Robotframwork&card_width=320&langs_count=7&theme=tokyonight&hide_border=true&order=2&border_radius=10" height="200" alt="languages graph" />
-
 </div>
 
 ###
