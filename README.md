@@ -47,7 +47,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=umutsogukpinar&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&order=3" height="200" alt="streak graph"  />
 </div>
 
