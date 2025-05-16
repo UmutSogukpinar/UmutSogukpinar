@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D27F7&width=500&lines=My+only+purpose+is+to+become+better;+than+I+was+yesterday%2C+;constantly+evolving%2C+learning%2C;and+pushing+my+limits+;to+achieve+greatness." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D27F7&width=500&lines=My+only+purpose+is+to+become+better;+than+I+was+yesterday%2C+;constantly+learning%2C;and+pushing+my+limits." alt="Typing SVG" />
   </a>
 </p>
 
