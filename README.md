@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently diving deep into Spring Boot and ReactJS<br><br>
+<p align="left">🌱 I’m currently diving deep into Node.js and ReactJS<br><br>
 ⚡️ Exploring AI to integrate it into Full-Stack projects<br><br>
 🎯 My goal is to become a highly skilled Full-Stack Developer with a focus on Artificial Intelligence<br><br>
 📫 You can reach me at: <a href="mailto:usogukpinar0@gmail.com">usogukpinar0@gmail.com</a></p>
@@ -45,7 +45,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo" />
   <img width="15" />
