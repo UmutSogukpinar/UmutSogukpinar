@@ -27,44 +27,62 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
-###
+<p align="left">
+🌱 Currently diving deep into Node.js and ReactJS <br><br>
+⚡️ Exploring AI to integrate it into Full-Stack projects <br><br>
+🎯 Goal: Become a highly skilled Full-Stack Developer with a focus on Artificial Intelligence <br><br>
+📫 Reach me at: <a href="mailto:usogukpinar0@gmail.com">usogukpinar0@gmail.com</a>
+</p>
 
-<p align="left">🌱 I’m currently diving deep into Node.js and ReactJS<br><br>
-⚡️ Exploring AI to integrate it into Full-Stack projects<br><br>
-🎯 My goal is to become a highly skilled Full-Stack Developer with a focus on Artificial Intelligence<br><br>
-📫 You can reach me at: <a href="mailto:usogukpinar0@gmail.com">usogukpinar0@gmail.com</a></p>
+---
 
-###
-
-<h3 align="left">🛠 Languages and Tools:</h3>
-
-###
+<h3 align="left">📝 Languages</h3>
 
 <div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="45" alt="c logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="45" alt=".NET logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
+</div>
+
+---
+
+<h3 align="left">📚 Frameworks & Libraries</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo" />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo" />
+</div>
+
+---
+
+<h3 align="left">⚙️ Tools & Platforms</h3>
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo" />
 </div>
 
-###
+---
 
-<h3 align="left">📊 My Stats:</h3>
-
-###
+<h3 align="left">📊 My Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=umutsogukpinar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="200" alt="GitHub Stats" />
