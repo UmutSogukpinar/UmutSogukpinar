@@ -30,10 +30,19 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-🌱 Currently diving deep into Spring Boot and ReactJS <br><br>
-⚡️ Exploring AI to integrate it into Full-Stack projects <br><br>
-🎯 Goal: Become a highly skilled Full-Stack Developer with a focus on Artificial Intelligence <br><br>
-📫 Reach me at: <a href="mailto:usogukpinar0@gmail.com">usogukpinar0@gmail.com</a>
+
+🚀 Focused on Backend Development, DevOps and Distributed Systems <br><br>
+
+🐳 Building projects with Spring Boot, Docker and modern backend technologies <br><br>
+
+🐧 Passionate about Linux, Networking and System Design <br><br>
+
+📚 Continuously learning how large-scale systems work under the hood <br><br>
+
+🎯 Goal: Become a highly skilled Backend Engineer capable of designing scalable and reliable systems <br><br>
+
+📫 Reach me at:
+<a href="mailto:usogukpinar0@gmail.com">usogukpinar0@gmail.com</a>
 </p>
 
 ---
