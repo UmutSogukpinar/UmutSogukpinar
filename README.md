@@ -98,3 +98,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutsogukpinar&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="200" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com?user=umutsogukpinar&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&order=3" height="200" alt="streak graph" />
 </div>
+
+<h4 align="left">📊 LeetCode Stats</h4>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/umutsogukpinar?theme=dark&font=Fira%25Code" height="200" />
+</div>
